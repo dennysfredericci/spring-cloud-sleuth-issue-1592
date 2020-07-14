@@ -1,0 +1,4 @@
+#LOGGING
+logging:
+  level:
+    ROOT: ${MY_LOGGING_LEVEL:WARN}
